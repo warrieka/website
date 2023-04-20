@@ -363,3 +363,13 @@
   texture:  No
   notes : 
   formats: KMZ
+
+- dataset: Antwerp
+  link: https://s3-ant1.antwerpen.be/prd-3d/index.html
+  country: Belgium
+  building_lod: LoD2
+  year: 2018
+  texture:  No
+  notes : based on lidar data from 2014
+  formats: OGC CityGML (.gml), ESRI Shapefile (.shp),  GL Transmission Format (.glb), Sketchup (.skp)
+
